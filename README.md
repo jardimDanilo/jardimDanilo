@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jardimDanilo
 - 👀 I’m interested in back-end and game developing
-- 🌱 I’m currently learning Python, Java
+- 🌱 I’m currently learning Python and Java
 - 📫 How to reach me: danilo.djardim29@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Writing a fantasy book.
